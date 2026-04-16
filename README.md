@@ -1,3 +1,6 @@
+# Stella note:
+to view this on the browser, clone this repo and follow [these instructions](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) (some of the prerequisites should already be fulfilled)
+
 # Talapas Knowledge Base
 
 This is the github repository for the user-facing documentation of UO RACS resaerch computing cluster, Talapas (i.e. wiki.talapas.uoregon.edu). 
